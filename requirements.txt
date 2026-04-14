@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+pytesseract
+pdf2image
+pillow
+nltk
